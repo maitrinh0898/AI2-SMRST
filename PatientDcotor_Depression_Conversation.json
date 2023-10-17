@@ -1,0 +1,92 @@
+[
+  {
+    "tag": "doctor_greeting",
+    "patterns": [
+		"Good morning. I am not feeling good lately."
+		],
+    "responses": [
+		"Good morning. I'm here to help you. Please feel free to share what you're going through."
+		]
+  },
+  {
+    "tag": "patient_suicidal_thoughts",
+    "patterns": [
+		"I tried to take several Tylenol tablets to kill myself yesterday. My husband sent me here. People think I'm crazy."
+		],
+    "responses": [
+		"I'm really sorry to hear that you're feeling this way. It's important that you're here. Let's talk about what you're experiencing.",
+		"Can you tell me more about it?", 
+		"When did you start feeling depressed?", 
+		"Did something happen? Was there anything that made you sad?"
+		]
+  },
+  {
+    "tag": "patient_depression_details",
+    "patterns": [
+		"I have been depressed doctor about three days ago doctor.", 
+		"None. Well, I gave birth to a baby boy 3 weeks ago. I think I'm a terrible mother."
+		],
+    "responses": [
+		"I'm here to listen. Please share as much as you're comfortable with. Your feelings are valid, and I want to understand your situation better.",
+		"I'm sorry to hear that you're feeling this way after the birth of your baby. It's not uncommon, and you're not alone in this experience. Many new mothers face challenges. Let's work through this together.",
+		"Thank you for sharing your past experiences. It's important to have supportive people around you. Based on what you've told me, I recommend that you stay in the hospital for a few days for evaluation and counseling. With the right support, you can overcome this.",
+	    "I understand this is a challenging time for you. I strongly advise you to stay in the hospital for a short period. It will give us the opportunity to provide you with focused care. Alongside counseling and medication, we can work towards helping you feel better.",
+		"It takes courage to talk about your feelings, and I'm grateful that you're here. Hospitalization will offer you a safe environment to address your depression. In addition to counseling and medications, we'll provide you with coping strategies and emotional support to navigate through this difficult phase.",
+		"You're taking a positive step towards your well-being. Staying in the hospital will allow us to monitor your progress closely. We will tailor the counseling sessions to your specific needs and ensure you receive the right medication. You are not alone in this; we are here to support you every step of the way."
+		]
+  },
+  {
+    "tag": "patient_acceptance",
+    "patterns": [
+		"Sounds good doctor. Thank you.", 
+		"I appreciate your help doctor."
+		],
+    "responses": [
+		"You're welcome. Remember, reaching out for help is a sign of strength. You don't have to face this alone. We'll work together to help you feel better.",
+		"I'm here to support you. Please don't hesitate to ask if you have any questions or concerns. Your well-being is our priority.",
+		"Thank you for your trust. We will do our best to assist you on your journey towards recovery. Take care, and remember, you are not alone in this.",
+		"You're very welcome. Your well-being is important to us. We'll be here to guide you throughout your treatment. Stay strong, and don't hesitate to reach out if you need anything."
+		]
+  },
+  {
+    "tag": "doctor_advice",
+    "patterns": [
+		"What should I do?", 
+		"Can you help me feel better?", 
+		"Do you have any advice for me?"
+		],
+    "responses": [
+		"I'm not a replacement for professional help, but I can offer some suggestions. It's important to talk to a mental health professional about your feelings. In the meantime, try to engage in activities you enjoy, talk to supportive friends or family, and consider relaxation techniques like deep breathing or meditation.", 
+		"I'm here to support you, but I recommend reaching out to a mental health professional who can provide personalized guidance. In the meantime, focus on self-care: get regular exercise, maintain a healthy diet, and get enough sleep. These can make a difference in how you feel.", 
+		"I'm not a doctor, but I can offer general suggestions. It's crucial to talk to a mental health professional who can provide tailored advice. In the meantime, consider talking to someone you trust about your feelings, and try to engage in activities that bring you comfort and relaxation."
+		]
+  },
+   {
+  "tag": "suicidal_thoughts",
+  "patterns": [
+		"I want to end my life", 
+		"I can't go on like this", 
+		"I don't see any reason to live"],
+  "responses": [
+		"I'm really sorry to hear that you're feeling this way, but I can't provide the help that you need. It's important to talk to someone who can, though, such as a mental health professional or a trusted person in your life.",
+		"I'm really sorry to hear that you're feeling this way, but remember that there are people who care about you and want to help. Please talk to a mental health professional or reach out to a trusted friend or family member.",
+		"I'm here to listen, but I can't provide the help you need. It's crucial to talk to someone who can, such as a mental health professional or a helpline in your country.",
+		"I'm really sorry that you're feeling like this, but I can't offer the help you need. Reach out to a mental health professional or a trusted person in your life. Don't face this alone; there are people who want to support you.",
+		"I'm really sorry to hear that you're feeling this way, but please understand that there are people who care about you and want to help. Reach out to a mental health professional or a trusted person in your life and talk to them about what you're going through."
+		]
+	},
+	{
+  "tag": "depressed_feelings",
+  "patterns": [
+		"I feel so sad", 
+		"I'm feeling really down", 
+		"I can't shake this feeling of hopelessness"],
+  "responses": [
+		"I'm really sorry to hear that you're feeling this way. It's important to talk about your feelings. Can you tell me more about what's been bothering you?",
+		"I'm here to listen. Sharing your feelings can be a first step towards feeling better. What's been on your mind?",
+		"I understand, and I'm here to help. Let's talk about what's been troubling you.",
+		"I'm sorry you're experiencing this. Sometimes, talking about our feelings can lighten the burden. Can you share more about what's been making you feel this way?",
+		"Feeling down can be incredibly tough, but you don't have to face it alone. I'm here to support you. Let's explore together what might be contributing to these feelings."
+  ]
+}
+]

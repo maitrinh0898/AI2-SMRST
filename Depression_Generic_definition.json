@@ -1,0 +1,54 @@
+[
+    {
+        "tag": "Depression",
+        "patterns": [
+            "What is depression?",
+            "Symptoms of depression",
+            "How to cope with depression"
+        ],
+        "responses": [
+            "Depression is a mood disorder characterized by persistent sadness and a lack of interest or pleasure in activities.",
+            "Common symptoms of depression include feelings of hopelessness, fatigue, changes in appetite, and difficulty concentrating.",
+            "Coping with depression may involve therapy, medication, and lifestyle changes. It's essential to seek help and support from professionals."
+        ]
+    },
+    {
+        "tag": "Anxiety",
+        "patterns": [
+            "What is anxiety?",
+            "Symptoms of anxiety",
+            "Tips for managing anxiety"
+        ],
+        "responses": [
+            "Anxiety is a natural response to stress, characterized by feelings of unease, worry, and fear.",
+            "Common symptoms of anxiety include rapid heartbeat, sweating, restlessness, and nervousness.",
+            "Managing anxiety can involve relaxation techniques, exercise, therapy, and, in some cases, medication. It's important to consult with a healthcare provider."
+        ]
+    },
+    {
+        "tag": "Stress",
+        "patterns": [
+            "How to reduce stress?",
+            "Causes of stress",
+            "Effects of chronic stress"
+        ],
+        "responses": [
+            "Reducing stress can be achieved through practices like meditation, deep breathing, and time management.",
+            "Common causes of stress include work pressure, financial worries, and relationship issues.",
+            "Chronic stress can have negative effects on physical and mental health, including increased risk of certain diseases."
+        ]
+    },
+    {
+        "tag": "Mental Health Support",
+        "patterns": [
+            "Where to find mental health support?",
+            "Online therapy options",
+            "Helplines for mental health"
+        ],
+        "responses": [
+            "You can find mental health support from licensed therapists, psychologists, and psychiatrists in your area.",
+            "There are many online therapy platforms that offer remote counseling and support.",
+            "Helplines and crisis hotlines are available for immediate assistance in times of emotional distress."
+        ]
+    }
+]
